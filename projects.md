@@ -1,3 +1,5 @@
+These are some of the key projects I've contributed to.
+
 ## Resilience Project
 This was a research study at the Icahn School of Medicine at Mount Sinai that looked for people resistant or resilient to disease. I served as PI and led a grant-funded effort to identify Lyme resistant individuals and characterize their antibody repertoires.
 
