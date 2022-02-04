@@ -20,3 +20,5 @@ An annual conference I produced for many years, that explored new omic technolog
 
 ## DNA Direct
 One of the earliest direct-to-consumer genetic testing companies, founded by Ryan Phelan. I was an early employee (biz dev). While the norm now, DTC was treated as a four-letter word in 2005.
+
+see jasonbobe.com
